@@ -13,5 +13,5 @@ export class SignupUserDto {
 
   password: string;
 
-  re_password: string;
+  // re_password: string;
 }
